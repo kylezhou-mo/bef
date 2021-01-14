@@ -6,4 +6,4 @@ date: 2019-05-12 12:00:00 +0800
 description: 參加親子運動嘉年華！
 tag: [Activity, Sports, Awarded]
 ---
-我第一次上新聞，好興奮呀！
+不是冠軍，不開心......

@@ -1,9 +1,9 @@
 ---
 layout: post
-title: "母子齊參加親子運動嘉年華"
+title: "參加親子運動嘉年華"
 img: 20190512.jpg # Add image post (optional)
 date: 2019-05-12 12:00:00 +0800
-description: 母子齊參加親子運動嘉年華！
-tag: [Activity, Sports]
+description: 參加親子運動嘉年華！
+tag: [Activity, Sports, Awarded]
 ---
 我第一次上新聞，好興奮呀！

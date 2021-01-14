@@ -1,0 +1,9 @@
+---
+layout: post
+title: "數學競賽"
+img: 20210110.jpg # Add image post (optional)
+date: 2021-01-10 12:00:00 +0800
+description: 數學競賽
+tag: [Competition, Mathematics, WMI]
+---
+數學題很難做，但是我很想把他們做出來！

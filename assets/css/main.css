@@ -4382,7 +4382,8 @@ cite {
 }
 
 .author .author_info {
-  padding-left: 8rem;
+  /* kevin: padding-left: 8rem; */
+  margin: 0 1rem;
 }
 
 .author .author_info .author_title {

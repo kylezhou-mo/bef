@@ -7,3 +7,5 @@ description: 數學競賽
 tag: [Competition, Mathematics, WMI]
 ---
 數學題很難做，但是我很想把他們做出來！
+
+![考試現場]({{ site.url }}/assets/img/20210110_2.jpg)

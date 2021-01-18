@@ -1,0 +1,9 @@
+---
+layout: post
+title: "參觀軍營"
+img: 20100501.jpg # Add image post (optional)
+date: 2019-05-01 12:00:00 +0800
+description: 參觀軍營
+tag: [Activity Patriotism]
+---
+愛國主義教育，參觀軍營

@@ -4773,6 +4773,10 @@ cite {
     font-size: 1.35rem;
     margin: 0 0 0.3rem 0;
   }
+  /* kevin */
+  .chapters .chapter_inner .chapter_subtitle {
+    margin: 0 0 0.3rem 0;
+  }
   .pagination {
     padding: 2rem 0 6rem;
   }

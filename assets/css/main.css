@@ -4035,6 +4035,11 @@ cite {
   color: #ffffff;
 }
 
+/* kevin */
+.chapters .chapter_inner .chapter_subtitle {
+  color: #ffffff;
+}
+
 .chapters .chapter_inner .chapter_number {
   font-size: 0.9rem;
   text-transform: uppercase;

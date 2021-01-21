@@ -8,3 +8,5 @@ tag: [Lego, Hands-on]
 youtubeId: omE8KvBurVw
 ---
 砌樂高越來越叻啦
+
+{% include youtubePlayer.html id=page.youtubeId %}

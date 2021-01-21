@@ -1,0 +1,10 @@
+---
+layout: post
+title: "砌樂高"
+img: 20200804.jpg # Add image post (optional)
+date: 2020-08-04 12:00:00 +0800
+description: 砌樂高越來越叻
+tag: [Lego, Hands-on]
+youtubeId: omE8KvBurVw
+---
+砌樂高越來越叻啦

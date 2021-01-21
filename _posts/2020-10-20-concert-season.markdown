@@ -5,5 +5,8 @@ img: 20201020.jpg # Add image post (optional)
 date: 2020-10-20 12:00:00 +0800
 description: 我喜歡音樂會，是因為我聽得到而且看得到。
 tag: [Concert, Art]
+youtubeId: lupv-tgglSU
 ---
 我喜歡音樂會，是因為我聽得到而且看得到。
+
+{% include youtubePlayer.html id=page.youtubeId %}

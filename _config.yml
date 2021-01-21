@@ -9,7 +9,7 @@ url: "https://kylezhou-mo.github.io" # the base hostname & protocol for your sit
 # Banner settings
 video: mountains.mp4 # add banner video. Add your video file to the folder video
 banner-title: 學海無涯苦作舟 # add banner title
-banner-desc: # add banner description
+banner-desc: “太阳是幸福的，因为它光芒四照；海也是幸福的，因为它反射着太阳欢乐的光芒。”——高尔基 # add banner description
 
 # Author settings
 author-pic: face.jpg # your photo

@@ -6,4 +6,4 @@ date: 2019-05-01 12:00:00 +0800
 description: 愛國主義教育
 tag: [Activity, Patriotism]
 ---
-愛國主義教育，參觀軍營。
+解放軍哥哥好威武！

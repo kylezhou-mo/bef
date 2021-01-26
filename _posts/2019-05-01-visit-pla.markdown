@@ -3,7 +3,7 @@ layout: post
 title: "參觀軍營"
 img: 20190501.jpg # Add image post (optional)
 date: 2019-05-01 12:00:00 +0800
-description: 愛國主義教育
+description: 解放軍哥哥好威武！
 tag: [Activity, Patriotism]
 ---
 解放軍哥哥好威武！

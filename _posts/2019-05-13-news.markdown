@@ -3,7 +3,7 @@ layout: post
 title: "母子齊參加親子運動嘉年華"
 img: 20190513.jpg # Add image post (optional)
 date: 2019-05-13 12:00:00 +0800
-description: 母子齊參加親子運動嘉年華！
+description: 第一次上新聞
 tag: [News]
 ---
 我第一次上新聞[市民日報](https://www.facebook.com/permalink.php?story_fbid=2214632645318835&id=795087187273395)，好興奮呀！
